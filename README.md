@@ -1,6 +1,6 @@
 ## Using Natural Language Processing (NLP) for Fake News Detection
 
-We have applied machine learning to detect fake new son dataset obtained from [kaggle](https://www.kaggle.com/c/fake-news/data).
+We have applied machine learning to detect fake news on dataset obtained from [kaggle](https://www.kaggle.com/c/fake-news/data).
 Our calssification model gave a 91.55% accuracy score.
 
 ## Methodology
